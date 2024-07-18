@@ -14,7 +14,7 @@ const ThreeScene = () => {
     scene.background = new THREE.Color(0x0f172a); // Set background color to #0f172a
 
     const camera = new THREE.PerspectiveCamera(75, currentMount.clientWidth / currentMount.clientHeight, 0.1, 1000);
-    camera.position.set(0, 1, 5); // Adjust camera position
+    camera.position.set(0, 0, 3); // Adjust camera position
 
     const renderer = new THREE.WebGLRenderer({ antialias: true });
     renderer.setSize(currentMount.clientWidth, currentMount.clientHeight);
