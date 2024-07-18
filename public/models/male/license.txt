@@ -1,0 +1,11 @@
+Model Information:
+* title:	UE5 Male Mannequin - Manny - Web Ready
+* source:	https://sketchfab.com/3d-models/ue5-male-mannequin-manny-web-ready-9fcaadd206f449c2ab446d84350df370
+* author:	SketchPunk (https://sketchfab.com/sketchpunk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "UE5 Male Mannequin - Manny - Web Ready" (https://sketchfab.com/3d-models/ue5-male-mannequin-manny-web-ready-9fcaadd206f449c2ab446d84350df370) by SketchPunk (https://sketchfab.com/sketchpunk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

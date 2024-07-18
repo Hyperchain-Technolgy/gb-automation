@@ -33,7 +33,7 @@ const Nav = () => {
       </div>
 
       <div className={`absolute flex justify-center items-center flex-col h-screen w-full top-0 left-0 bg-slate-900 transition-transform duration-700 ease-in-out ${isOpen ? 'translate-y-0' : '-translate-y-full'}`}>
-        <NavLinks className="text-2xl text-indigo-300 my-2" />
+        <NavLinks className="text-3xl text-indigo-300 my-3" />
       </div>
     </nav>
   )
